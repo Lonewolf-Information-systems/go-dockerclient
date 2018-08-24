@@ -1,3 +1,4 @@
+BUILD_PLATFORMS ?= -osarch="linux/arm64"
 .PHONY: \
 	all \
 	lint \
